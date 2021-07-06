@@ -1,7 +1,7 @@
 /*! X-editable - v1.5.3 
 * In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
-* http://github.com/vitalets/x-editable
-* Copyright (c) 2018 Vitaliy Potapov; Licensed MIT */
+* http://github.com/mormanski/x-editable
+* Copyright (c) 2021 Vitaliy Potapov; Licensed MIT */
 /**
 Form with single input element, two buttons and two states: normal/loading.
 Applied as jQuery method to DIV tag (not to form tag!). This is because form can be in loading state when spinner shown.
@@ -4702,7 +4702,7 @@ $(function(){
 }(window.jQuery));
 
 /*
-Editableform based on Twitter Bootstrap 3
+Editableform based on Twitter Bootstrap 5
 */
 (function ($) {
     "use strict";
@@ -4762,10 +4762,10 @@ Editableform based on Twitter Bootstrap 3
     $.fn.editableform.errorGroupClass = 'has-error';
     $.fn.editableform.errorBlockClass = null;  
     //engine
-    $.fn.editableform.engine = 'bs4';  
+    $.fn.editableform.engine = 'bs5';
 }(window.jQuery));
 /**
-* Editable Popover for Bootstrap 4 based on Popper.js
+* Editable Popover for Bootstrap 5 based on Popper.js
 * ---------------------
 * requires bootstrap-popover.js
 */
