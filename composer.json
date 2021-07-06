@@ -1,12 +1,11 @@
 {
-    "name": "vitalets/x-editable",
+    "name": "mormanski/x-editable",
     "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.",
-    "version": "1.5.3",
-    "homepage": "http://github.com/vitalets/x-editable",
+    "version": "2.0.0",
+    "homepage": "http://github.com/mormanski/x-editable",
     "authors": [
         {
-            "name": "Vitaliy Potapov",
-            "email": "noginsk@rambler.ru",
+            "name": "Darren Morman",
             "role": "Developer"
         }
     ],
@@ -19,13 +18,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/vitalets/x-editable.git"
+            "url": "https://github.com/mormanski/x-editable.git"
         }
     ],
     "support": {
-        "issues": "https://github.com/vitalets/x-editable/issues",
-        "source": "http://vitalets.github.io/x-editable",
-        "wiki": "http://vitalets.github.io/x-editable"
+        "issues": "https://github.com/mormanski/x-editable/issues",
     },
     "license": [
         "MIT"
