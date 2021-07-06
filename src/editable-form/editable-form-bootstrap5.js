@@ -59,5 +59,5 @@ Editableform based on Twitter Bootstrap 5
     $.fn.editableform.errorGroupClass = 'has-error';
     $.fn.editableform.errorBlockClass = null;  
     //engine
-    $.fn.editableform.engine = 'bs5';  
+    $.fn.editableform.engine = 'bs5';
 }(window.jQuery));
